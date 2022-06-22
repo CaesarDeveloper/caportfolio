@@ -34,7 +34,7 @@ const Home = () => (
         textAlign="center"
         bg={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')}
       >
-        Hola! 👋, Bienvedid@ a mi perfil! 🤓
+        Hola! 👋, Bienvenid@ a mi perfil! 🤓
       </Box>
 
       <Box display={{ md: 'flex' }}>
