@@ -61,11 +61,12 @@ const Home = () => (
             overflow="hidden"
           >
             <ProfileImage
-              src="/images/52503234.jpeg"
+              src="/images/148528231.png"
               alt="Profile image"
               borderRadius="full"
               width="100%"
               height="100%"
+              objectFit= "contain"
             />
           </Box>
         </Box>
