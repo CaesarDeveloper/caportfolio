@@ -17,5 +17,3 @@ You'll also learn how to:
 
 ## Stay up to date with new projects
 New major projects coming soon, subscribe to the mailing list to stay up to date https://jsmastery.pro
-
-ssh-keygen -t ed25519 -C "caesararg.dev@gmail.com"

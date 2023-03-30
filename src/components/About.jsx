@@ -43,17 +43,12 @@ const About = () => {
         <h2 className={styles.sectionHeadText}>Overview.</h2>
       </motion.div>
 
-      
-  
-  
-
-
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] leading-[30px] flex'
       >
         <div class="lg:max-w-lg md:w-1/2 w-5/6 mr-4">
-          <img class="object-cover object-center rounded-2xl rounded-full" alt="tip_book" src="https://avatars.githubusercontent.com/u/52503234?s=400&u=aa758b3893e7c086a01c3e3588e9c248766adc33&v=4" />
+          <img class="object-cover object-center rounded-2xl rounded-full" alt="tip_book" src="https://media.licdn.com/dms/image/D4E03AQG-DM0afU6AFw/profile-displayphoto-shrink_800_800/0/1665592015770?e=1685577600&v=beta&t=vJE1-HurFNPqnjsFU-fXj26NdmseaGdCi-szvAo7Oac"/>
         </div>
 
         I’m an experienced Software Developer adept in bringing forth expertise in design,
